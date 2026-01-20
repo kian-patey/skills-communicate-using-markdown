@@ -18,9 +18,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+
 ## Step 4: Make a task list
 
 _Great job adding a code example to the file :partying_face:_
